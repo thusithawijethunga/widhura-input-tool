@@ -69,6 +69,6 @@ Acknowledgments are extended to family members, friends, and supporting entities
 
 Users are bound by the End-User License Agreement (EULA) upon installation, copying, or usage of the software. It is essential to review the terms carefully before proceeding with installation or usage.
 
-**Thanks for Support**: Thusitha Wijehunga
-© Thusitha Wijehunga 2015 - 2024
-Website: www.promoxp.us
+**Thanks for Support**
+**© Thusitha Wijehunga 2015 - 2024**
+**Website: www.promoxp.us**
